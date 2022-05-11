@@ -330,3 +330,39 @@ footer a{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
+
+
+.docomo{
+    color:white;
+    background-color:red;
+    font-weight: bold;
+    
+}
+.softbank{
+    color:black;
+    background-color:whitesmoke;
+    font-family:"serif ";
+
+}
+.rakuten{
+    color:white;
+    background-color:rgb(214, 50, 78)
+}
+
+.nuro {
+    color:black;
+    background-color:whitesmoke;
+    font-weight: bold;
+}
+
+.povo {
+    color:#808080;
+    background-color:#F7DE05;
+
+
+}
+
+.shoplist a{
+    margin-bottom:15px;
+
+}
